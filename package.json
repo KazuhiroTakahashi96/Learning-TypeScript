@@ -1,5 +1,5 @@
 {
-  "name": "learning-typescript-udemy",
+  "name": "learning-typescript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KazuhiroTakahashi96/Learning-TypeScript-Udemy.git"
+    "url": "git+https://github.com/KazuhiroTakahashi96/Learning-TypeScript.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KazuhiroTakahashi96/Learning-TypeScript-Udemy/issues"
+    "url": "https://github.com/KazuhiroTakahashi96/Learning-TypeScript/issues"
   },
-  "homepage": "https://github.com/KazuhiroTakahashi96/Learning-TypeScript-Udemy#readme"
+  "homepage": "https://github.com/KazuhiroTakahashi96/Learning-TypeScript#readme"
 }
